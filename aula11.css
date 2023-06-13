@@ -1,0 +1,10 @@
+#paragrafo:hover{
+background-color: aqua;
+display: inline;
+}
+#paragrafo2:focus{
+background-color: blue;
+}
+a:active{
+    color: red;
+}
